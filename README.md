@@ -1,10 +1,10 @@
 | 42 Projects                                                              | Score         |
 |:------------------------------------------------------------------------ |:-------------:|
 | <a href="https://github.com/thgabell/libft">libft</a>                    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2579869" alt="thgabell's 42 Libft Score" /></a>              |
-| <a href="#">ftprintf</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608919" alt="thgabell's 42 get_next_line Score" /></a>          |
-| <a href="https://github.com/thgabell/get_next_line">get_next_line</a>    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608921" alt="thgabell's 42 ft_printf Score" /></a>          |
-| <a href="#">born2beroot</a>                                              | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608920" alt="thgabell's 42 Born2beroot Score" /></a>          |
-| <a href="#">minitalk</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608920" alt="thgabell's 42 Born2beroot Score" /></a>          |
+| <a href="#">ftprintf</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608921" alt="thgabell's 42 ft_printf Score" /></a>          |
+| <a href="https://github.com/thgabell/get_next_line">get_next_line</a>    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608919" alt="thgabell's 42 get_next_line Score" /></a>      |
+| <a href="#">born2beroot</a>                                              | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608920" alt="thgabell's 42 Born2beroot Score" /></a>        |
+| <a href="#">minitalk</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608920" alt="thgabell's 42 Born2beroot Score" /></a>        |
 | <a href="https://github.com/thgabell/push_swap">push_swap</a>            | NULL          |
 | <a href="#">fdf</a>                                                      | NULL          |
 <!--
