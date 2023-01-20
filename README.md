@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Projects         | Score         | Cool  |
+|:---------------- |:-------------:| -----:|
+| libft            | right-aligned | $1600 |
+| ftprintf         | centered      |   $12 |
+| get_next_line    | are neat      |    $1 |
+| born2beroot      | are neat      |    $1 |
+| <a href="https://github.com/thgabell/get_next_line/blob/master/en.subject.pdf">minitalk</a>         | are neat      |    $1 |
+| get_next_line    | are neat      |    $1 |
 
 <!--
 **thgabell/thgabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
