@@ -1,13 +1,13 @@
-### Hi there 👋
-
-| Projects         | Score         | Cool  |
-|:---------------- |:-------------:| -----:|
-| libft            | right-aligned | $1600 |
-| ftprintf         | centered      |   $12 |
-| get_next_line    | are neat      |    $1 |
-| born2beroot      | are neat      |    $1 |
-| <a href="https://github.com/thgabell/get_next_line/blob/master/en.subject.pdf">minitalk</a>         | are neat      |    $1 |
-| get_next_line    | are neat      |    $1 |
+| 42 Projects                                                              | Score         | Badge |
+|:------------------------------------------------------------------------------------------------:|
+| Circle 0                                                                                         |
+|:------------------------------------------------------------------------ |:-------------:| -----:|
+| <a href="https://github.com/thgabell/libft">libft</a>                    | 125%          | $1600 |
+| <a href="#">ftprintf</a>                                                 | 100%          |   $12 |
+| <a href="https://github.com/thgabell/get_next_line">get_next_line</a>    | 125%          |    $1 |
+| <a href="#">born2beroot</a>                                              | 100%          |    $1 |
+| <a href="#">minitalk</a>                                                 | 125%          |    $1 |
+| <a href="https://github.com/thgabell/push_swap">push_swap</a>            | NULL          |    $1 |
 
 <!--
 **thgabell/thgabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
