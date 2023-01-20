@@ -1,3 +1,4 @@
+|:------------------------------------------------------------------------:|:-------------:|
 | 42 Projects                                                              | Score         |
 |:------------------------------------------------------------------------ |:-------------:|
 | <a href="https://github.com/thgabell/libft">libft</a>                    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2579869" alt="thgabell's 42 Libft Score" /></a>              |
