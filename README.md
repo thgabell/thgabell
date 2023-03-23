@@ -4,8 +4,8 @@
 | <a href="#">ftprintf</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608921" alt="thgabell's 42 ft_printf Score" /></a>          |
 | <a href="https://github.com/thgabell/get_next_line">get_next_line</a>    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608919" alt="thgabell's 42 get_next_line Score" /></a>      |
 | <a href="#">born2beroot</a>                                              | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2608920" alt="thgabell's 42 Born2beroot Score" /></a>        |
-| <a href="#">minitalk</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2897660" alt="thgabell's 42 minitalk Score" /></a>        |
-| <a href="https://github.com/thgabell/push_swap">push_swap</a>            | NULL          |
+| <a href="#">minitalk</a>                                                 | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2897660" alt="thgabell's 42 minitalk Score" /></a>           |
+| <a href="https://github.com/thgabell/push_swap">push_swap</a>            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld4639q000260fmb8wkdgfhq/project/2923188" alt="thgabell's 42 push_swap Score" /></a>          |
 | <a href="#">fdf</a>                                                      | NULL          |
 <!--
 **thgabell/thgabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
